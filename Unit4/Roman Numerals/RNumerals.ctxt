@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RNumerals()
+comment1.params=
+comment1.target=java.lang.String\ getQuestion()
+comment2.params=n
+comment2.target=void\ setNumber(int)
+comment3.params=
+comment3.target=int\ getNumber()
+comment4.params=
+comment4.target=java.lang.String\ getNumeral()
+numComments=5

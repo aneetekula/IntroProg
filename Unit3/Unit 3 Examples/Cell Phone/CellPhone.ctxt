@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=nam\ in\ p\ s
+comment0.target=CellPhone(java.lang.String,\ java.lang.String,\ double,\ int)
+comment1.params=nam
+comment1.target=void\ setName(java.lang.String)
+comment2.params=in
+comment2.target=void\ setItemName(java.lang.String)
+comment3.params=p
+comment3.target=void\ setPrice(double)
+comment4.params=s
+comment4.target=void\ setStock(int)
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=java.lang.String\ getItemName()
+comment7.params=
+comment7.target=double\ getPrice()
+comment8.params=
+comment8.target=int\ getStock()
+comment9.params=
+comment9.target=double\ getValue()
+numComments=10

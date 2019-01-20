@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=w
+comment0.target=Widget(double)
+comment1.params=w
+comment1.target=void\ setWidget(double)
+comment2.params=
+comment2.target=double\ getWidget()
+comment3.params=
+comment3.target=double\ getDays()
+numComments=4

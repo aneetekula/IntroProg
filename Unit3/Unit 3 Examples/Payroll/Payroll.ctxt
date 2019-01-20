@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Payroll()
+comment1.params=hw
+comment1.target=void\ sethoursWorked(double)
+comment2.params=pr
+comment2.target=void\ setpayRate(double)
+comment3.params=nod
+comment3.target=void\ setnumberOfDependents(int)
+comment4.params=
+comment4.target=double\ gethoursWorked()
+comment5.params=
+comment5.target=double\ getpayRate()
+comment6.params=
+comment6.target=int\ getnumberOfDependents()
+comment7.params=
+comment7.target=double\ getGrossPay()
+comment8.params=
+comment8.target=double\ getFWT()
+comment9.params=
+comment9.target=double\ getnetPay()
+numComments=10

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Favorite()
+comment1.params=
+comment1.target=java.lang.String\ getQuestion()
+comment2.params=l
+comment2.target=void\ setLetter(int)
+comment3.params=
+comment3.target=int\ getLetter()
+comment4.params=
+comment4.target=java.lang.String\ classify()
+numComments=5

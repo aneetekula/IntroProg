@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=ta1\ ta2\ ta3
+comment0.target=TestAverage(double,\ double,\ double)
+comment1.params=t1
+comment1.target=void\ setTest1(double)
+comment2.params=t2
+comment2.target=void\ setTest2(double)
+comment3.params=t3
+comment3.target=void\ setTest3(double)
+comment4.params=
+comment4.target=double\ getTest1()
+comment5.params=
+comment5.target=double\ getTest2()
+comment6.params=
+comment6.target=double\ getTest3()
+comment7.params=
+comment7.target=double\ getAverage()
+numComments=8

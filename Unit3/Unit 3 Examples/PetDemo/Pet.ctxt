@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pet()
+comment1.params=nam
+comment1.target=void\ setName(java.lang.String)
+comment2.params=typ
+comment2.target=void\ setType(java.lang.String)
+comment3.params=ag
+comment3.target=void\ setAge(int)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.lang.String\ getType()
+comment6.params=
+comment6.target=int\ getAge()
+numComments=7
